@@ -29,8 +29,8 @@ This project automates the process of converting Telegram `tdata` files into Tel
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/atljh/SessionTDataConverter.git
+   cd https://github.com/atljh/SessionTDataConverter.git
 
 2. **Install dependencies**:
     ```bash
